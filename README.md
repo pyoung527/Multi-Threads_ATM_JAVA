@@ -1,4 +1,4 @@
-# javalab5
+# Multi-Threads_ATM_JAVA
 Developing Multithreaded Applications using Java Multithreading API and Collections API
 
 Write a Java application that handles multiple ATM transactions (withdraw, deposit) at the same time. Create an Account class and implement both deposit and withdraw operations. Synchronize the operations to allow thread synchronization. Use Java Runnable interface to implement a Transaction class. Perform withdraw and deposit operations in run method. 
